@@ -1,6 +1,8 @@
 # curated-bpf
 Curated list of BPF resources
+## Introduction
 
+- [__BPF, XDP, Packet filters and UDP__](https://fly.io/blog/bpf-xdp-packet-filters-and-udp/): Good introduction to BPF and XDP.
 ## Security 
 
 - [__When eBPF meets TLS!__ ](https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf) by Guillaume Valadon (@guedou).
